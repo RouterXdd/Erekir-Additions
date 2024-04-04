@@ -46,7 +46,7 @@
           "damage": 5,
           "pierce": true,
           "pierceBuilding": true,
-          "pierceCap": 2,
+          "pierceCap": 4,
           "speed": 5,
           "lifetime": 15,
           "shrinkY": 0,

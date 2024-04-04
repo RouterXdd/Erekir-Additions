@@ -26,7 +26,7 @@
         "damage": 45,
         "pierceBuilding": true,
         "pierce": false,
-        "pierceCap": 3,
+        "pierceCap": 4,
         "trailColor": "f7c749",
         "trailLength": 18,
         "trailWidth": 3,
